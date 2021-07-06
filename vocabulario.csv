@@ -10,7 +10,8 @@ capitulo,ingles,espanol
 5,to go by bus,ir en autobús
 5,to go by car,ir en auto(móvil)
 5,to go by plane,ir en avión
-5,to go by motorcycle,ir en barco
+5,to go by boat,ir en barco
+5,to go by motorcycle,ir en moto(cicleta)
 5,to go by taxi,ir en taxi
 5,to play cards,jugar a las cartas
 5,to ride a horse,montar a caballo
@@ -48,7 +49,7 @@ capitulo,ingles,espanol
 5,ground floor,la planta baja
 5,open,abierto/a
 5,bored; boring,aburrido/a
-5,happy,alegre
+5,happy (1),alegre
 5,nice; friendly,amable
 5,embarrased,avergonzado/a
 5,tired,cansado/a
@@ -59,7 +60,7 @@ capitulo,ingles,espanol
 5,disorderly,desordenado/a
 5,in love (with),enamorado/a (de)
 5,wrong,equivocado/a
-5,happy,feliz
+5,happy (2),feliz
 5,clean,limpio/a
 5,ready; smart,listo/a
 5,nervous,nervioso/a
